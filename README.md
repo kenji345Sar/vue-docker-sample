@@ -4,6 +4,9 @@ vueのdocker起動のサンプル
 https://zenn.dev/chida/articles/8f16e42364398c
 
 ## 手順
+・コンテナ名変更
+Dockerfileのcontainer_nameの名称を変更する  
+
 ・コンテナ起動
 docker-compose up -d
 
