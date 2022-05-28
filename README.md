@@ -8,6 +8,6 @@ https://zenn.dev/chida/articles/8f16e42364398c
 docker-compose up -d
 
 ・コンテナ作業
-docker-compose exec app /bin/bash
-
+docker-compose exec app /bin/bash  
+vue create .  
 yarn serve
