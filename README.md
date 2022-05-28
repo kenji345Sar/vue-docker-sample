@@ -7,7 +7,7 @@ https://zenn.dev/chida/articles/8f16e42364398c
 ・コンテナ起動
 docker-compose up -d
 
-・コンテナ作業
+・コンテナ作業  
 docker-compose exec app /bin/bash  
 vue create .  
 yarn serve
