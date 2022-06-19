@@ -14,5 +14,5 @@ docker-compose up -d
 docker-compose exec app /bin/bash  
 (初期のみ)  
 vue create .  
-(毎回)
+(毎回)  
 yarn serve
